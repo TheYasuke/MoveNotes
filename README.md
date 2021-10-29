@@ -1,5 +1,5 @@
 # MoveNotes
-Moves notes from one powerpoint slide to another given they have similar titles.
+Moves notes from one powerpoint slide to another given they have similar content.
 --------------------------------------------------------------------------------
 
 A very niche script few will care about.
