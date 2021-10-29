@@ -12,10 +12,12 @@ Created because I was tired of transferring notes by hand everytime a slide deck
 
 Uses python3
 
+Usage:
+
 python movenotes.py [new ppt with no custom notes] [old ppt with custom notes]
 
-ex-
-python movenotes.py updatePPT.pptx oldPPT.pptx
+**ex-
+python movenotes.py updatePPT.pptx oldPPT.pptx**
 
 
 Note: Ensure updatedPPT is NOT open
